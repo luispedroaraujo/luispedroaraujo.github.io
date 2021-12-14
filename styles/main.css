@@ -2834,7 +2834,7 @@ a {
 }
 
 a:hover, a:focus {
-  color: #378C3F;
+  color: #000;
 }
 
 h1, .h1 {
@@ -7172,7 +7172,7 @@ Created using IcoMoon - icomoon.io
   padding-right: 0;
   text-align: center;
   color: #fff;
-  text-transform: uppercase;
+  /* text-transform: uppercase; */
 }
 
 /* Education Style */
